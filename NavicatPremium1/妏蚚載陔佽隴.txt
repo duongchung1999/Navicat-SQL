@@ -1,0 +1,1 @@
+Navicat for MySQL 是一套管理和开发 MySQL 或 MariaDB 的理想解决方案。它使你以单一程序同时连接到 MySQL 和 MariaDB。这个功能齐备的前端软件为数据库管理、开发和维护提供了直观而强大的图形界面。它提供了一组全面的工具给 MySQL 或MariaDB 新手，同时给专业人士。
